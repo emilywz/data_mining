@@ -91,7 +91,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 # 设置图片存储路径
-IMAGES_STORE = '/home/tarena/so/images/'
+IMAGES_STORE = 'E:/python/spider/so/images/'
 
 
 
