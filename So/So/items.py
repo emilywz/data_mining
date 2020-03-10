@@ -10,7 +10,6 @@ import scrapy
 
 class SoItem(scrapy.Item):
     # define the fields for your item here like:
-    # 图片链接 - 必须给管道(scrapy的图片管道类使用)
     img_link = scrapy.Field()
     img_title = scrapy.Field()
 
