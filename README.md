@@ -1,7 +1,7 @@
 # Data_Mining
 
 ## SO图片爬虫
-Scrapy框架应用
+Scrapy框架学习
 
 使用Scrapy的image管道
 
